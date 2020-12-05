@@ -1,0 +1,16 @@
+.list {
+  /* display: block; */
+  /* padding-left: 0px; */
+  width: 270px;
+  /* list-style: none; */
+}
+
+.listItem {
+  display: flex;
+  margin-bottom: 5px;
+}
+
+.button {
+  margin-left: auto;
+  font-size: 12px;
+}

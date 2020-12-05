@@ -1,0 +1,18 @@
+.phonebook {
+  display: flex;
+  flex-direction: column;
+}
+.input {
+  outline: none;
+  border: none;
+  border: solid 2px lightblue;
+  border-radius: 2px;
+}
+.input:hover,
+input:focus {
+  border-color: rgb(98, 197, 230);
+  box-shadow: lightblue;
+}
+.addContactBtn {
+  margin-top: 10px;
+}

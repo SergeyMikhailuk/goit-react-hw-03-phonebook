@@ -1,0 +1,4 @@
+.filterInput {
+  display: flex;
+  flex-direction: column;
+}
